@@ -1,0 +1,3 @@
+interface IClonable {
+    Persona clonar();
+}
